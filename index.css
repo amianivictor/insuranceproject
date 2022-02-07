@@ -184,3 +184,23 @@ nav{
       padding: 10px;
       margin: 10px;
   }
+  .block {
+    display: block;
+    width: 90%;
+    border: none;
+    background-color: #4d40be;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    margin: auto;
+  }
+  .pricing h3{
+    font-size: 70px;
+    text-align: center;
+  }
+  .pricing p{
+      
+  }
+  
